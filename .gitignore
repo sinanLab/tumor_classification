@@ -1,0 +1,16 @@
+# Ignore all dataset and large data files
+*.pkl
+*.csv
+*.arff
+*.xlsx
+*.xls
+*.zip
+*.hdf5
+*.npz
+*.npy
+*.svg
+*.pdf
+*.ppt
+*.pptx
+*.jpg
+*.png
